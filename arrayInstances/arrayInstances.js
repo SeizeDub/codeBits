@@ -6,6 +6,5 @@ function arrayInstances(entry) {
     });
 }
 
-let array1 = [5,2,6,5,6,4,5,2,4,5,2,5,4,5,2,3,6,5,4,1,7,8,1];
-
-console.log(arrayInstances(array1));
+//returns an array of the form [[value, instances], [...]]
+//a basic numerical ordering is performed
