@@ -6,5 +6,6 @@ function arrayInstances(entry) {
     });
 }
 
-//returns an array of the form [[value, instances], [...]]
+//takes an array as parameter
+//returns an array of the form [[value, numberOfInstances], [...]]
 //a basic numerical ordering is performed
